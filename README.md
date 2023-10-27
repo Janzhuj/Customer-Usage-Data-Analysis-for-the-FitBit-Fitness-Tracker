@@ -1,0 +1,3 @@
+# Customer-Usage-Data-Analysis-for-the-FitBit-Fitness-Tracker
+
+This project involves the analysis of customer usage data for a fitness tracker. Bellabeat, a company that produces FitBit fitness tracker specifically for women. The device can monitor the health vitals of its customers. Bellabeat conduct marketing analytics to expand their business. They have sampled one-month usage data from thirty-three eligible Fitbit users, with their consent. Our task is to gain insights into how existing customers use their products, identify potential trends in Fitbit smart device usage, and leverage these insightful analyses to establish a new market strategy for Bellabeat. [Link to post](https://janzhuj.github.io//Customer-Usage-Data-Analysis-for-the-FitBit-Fitness-Tracker/) 
